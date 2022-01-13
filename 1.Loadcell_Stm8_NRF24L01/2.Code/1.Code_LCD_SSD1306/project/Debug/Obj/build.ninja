@@ -1,0 +1,37 @@
+#Generating source browse information for project pid_stm8
+
+
+#Abbreviations
+cc = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\SourceIndexer.exe
+ll = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\PbdLink.exe
+bd = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build DELAY.pbi : index DELAY.xcl
+build i2c.pbi : index i2c.xcl
+build ssd1306.pbi : index ssd1306.xcl
+build stm8s_gpio.pbi : index stm8s_gpio.xcl
+build stm8s_i2c.pbi : index stm8s_i2c.xcl
+build uart.pbi : index uart.xcl
+build stm8s_it.pbi : index stm8s_it.xcl
+build main.pbi : index main.xcl
+build pid_stm8_part0.pbi : link DELAY.pbi i2c.pbi ssd1306.pbi
+build pid_stm8_part1.pbi : link stm8s_gpio.pbi stm8s_i2c.pbi uart.pbi
+build pid_stm8_part2.pbi : link stm8s_it.pbi main.pbi
+build pid_stm8.pbd : link pid_stm8_part0.pbi pid_stm8_part1.pbi pid_stm8_part2.pbi
+build pid_stm8.pbw : browsedata pid_stm8.pbd
+
+

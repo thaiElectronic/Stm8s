@@ -1,0 +1,8 @@
+uart.pbi: F:\Documents\3.STM8s\4.UART\uart.c \
+  F:\Documents\3.STM8s\4.UART/uart.h F:\Documents\3.STM8s\4.UART/stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h H:\Iar\stm8\inc\c\string.h \
+  H:\Iar\stm8\inc\c\ycheck.h H:\Iar\stm8\inc\c\yvals.h \
+  H:\Iar\stm8\inc\c\DLib_Defaults.h H:\Iar\stm8\LIB\dlstm8smn.h \
+  H:\Iar\stm8\inc\c\DLib_Product.h H:\Iar\stm8\inc\c\xencoding_limits.h \
+  H:\Iar\stm8\inc\c\DLib_Threads.h H:\Iar\stm8\inc\c\ysizet.h \
+  H:\Iar\stm8\inc\c\stdio.h H:\Iar\stm8\inc\c\ystdio.h

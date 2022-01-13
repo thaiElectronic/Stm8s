@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\10.Timer_counter\User\counter.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\timer.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

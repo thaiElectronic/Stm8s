@@ -1,0 +1,4 @@
+timer.pbi: F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\user\timer.c \
+  F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\user/timer.h \
+  F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\Project\stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h

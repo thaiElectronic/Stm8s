@@ -1,0 +1,16 @@
+/*
+GPIOSENSOR_ReadInput(GPIO_ReadInputPin(GPIOA,GPIO_PIN_1), (SS_TypeInput*)(&vrts_ButtonA));
+    GPIOSENSOR_ReadInput(GPIO_ReadInputPin(GPIOA,GPIO_PIN_4), (SS_TypeInput*)(&vrts_ButtonB));
+    if(vrts_ButtonA.vruc_FlagChange)
+    {
+      vrts_ButtonA.vruc_FlagChange;
+      UART_Send_String("BT1");
+    }
+    
+    if(vrts_ButtonB.vruc_FlagChange)
+    {
+      vrts_ButtonB.vruc_FlagChange;
+      UART_Send_String("BT2");
+    }
+   Fn_Delayms(1);
+*/

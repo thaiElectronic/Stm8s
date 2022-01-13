@@ -1,0 +1,4 @@
+mcp3208.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user\mcp3208.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user/mcp3208.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user/stm8s_spi.h

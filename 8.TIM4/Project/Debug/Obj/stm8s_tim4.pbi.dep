@@ -1,0 +1,24 @@
+stm8s_tim4.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\src\stm8s_tim4.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_tim4.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Project\stm8s_conf.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Project/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_adc1.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_awu.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_beep.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_clk.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_exti.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_flash.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_i2c.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_itc.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_iwdg.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_rst.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_spi.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_tim1.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_tim2.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_tim3.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_uart2.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\8.TIM4\Lib\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

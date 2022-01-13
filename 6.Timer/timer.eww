@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\FORM_STM8\Project\Form.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\Desktop\Monitor system\1.DEV_Code\Battery_Monitoring_STM8_V1\1.Monitoring\project\Monitoring.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\timer.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

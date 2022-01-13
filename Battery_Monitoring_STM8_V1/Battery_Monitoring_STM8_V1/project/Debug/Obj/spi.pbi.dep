@@ -1,0 +1,5 @@
+spi.pbi: \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user\spi.c \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user/spi.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

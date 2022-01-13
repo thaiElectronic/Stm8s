@@ -1,0 +1,4 @@
+sensor_gpio.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user\sensor_gpio.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user/sensor_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\user/sys.h

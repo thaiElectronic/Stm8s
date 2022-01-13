@@ -1,0 +1,27 @@
+sys.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user\sys.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/sys.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/sys_define.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/sensor_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\project\..\library\stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\project\..\library/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/mcp3208.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/stm8s_spi.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/uart.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/timer.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\user/delay.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\project\..\library\json-maker.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\batter_json\Battery_json\project\..\library\tiny-json.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdbool.h

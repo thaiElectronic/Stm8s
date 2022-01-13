@@ -1,0 +1,5 @@
+stm8s_it.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\library\stm8s_it.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\library/stm8s_it.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\2.Monitoring_test_timer\library/stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

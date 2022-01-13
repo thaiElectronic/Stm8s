@@ -1,0 +1,6 @@
+main.pbi: C:\Users\Thai\ MCU\Documents\3.STM8s\7.TIM_Interrupt\uart.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\7.TIM_Interrupt\stm8s_clk.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\7.TIM_Interrupt\stm8s_tim2.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\7.TIM_Interrupt\stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\7.TIM_Interrupt\main.c

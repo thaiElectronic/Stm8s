@@ -1,0 +1,42 @@
+#Generating source browse information for project battery_monitoring
+
+
+#Abbreviations
+cc = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\SourceIndexer.exe
+ll = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\PbdLink.exe
+bd = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build delay.pbi : index delay.xcl
+build timer.pbi : index timer.xcl
+build uart.pbi : index uart.xcl
+build mcp3208.pbi : index mcp3208.xcl
+build sensor_gpio.pbi : index sensor_gpio.xcl
+build sys.pbi : index sys.xcl
+build json-maker.pbi : index json-maker.xcl
+build stm8s_gpio.pbi : index stm8s_gpio.xcl
+build stm8s_it.pbi : index stm8s_it.xcl
+build stm8s_spi.pbi : index stm8s_spi.xcl
+build tiny-json.pbi : index tiny-json.xcl
+build main.pbi : index main.xcl
+build battery_monitoring_part0.pbi : link delay.pbi timer.pbi uart.pbi
+build battery_monitoring_part1.pbi : link mcp3208.pbi sensor_gpio.pbi sys.pbi
+build battery_monitoring_part2.pbi : link json-maker.pbi stm8s_gpio.pbi stm8s_it.pbi
+build battery_monitoring_part3.pbi : link stm8s_spi.pbi tiny-json.pbi main.pbi
+build battery_monitoring.pbd : link battery_monitoring_part0.pbi battery_monitoring_part1.pbi battery_monitoring_part2.pbi battery_monitoring_part3.pbi
+build battery_monitoring.pbw : browsedata battery_monitoring.pbd
+
+

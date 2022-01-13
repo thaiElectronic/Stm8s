@@ -1,0 +1,4 @@
+stm8s_clk.pbi: F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\user\stm8s_clk.c \
+  F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\user/stm8s_clk.h \
+  F:\Documents\3.STM8s\3.Uart\1.Uart_Tx\Project\stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h

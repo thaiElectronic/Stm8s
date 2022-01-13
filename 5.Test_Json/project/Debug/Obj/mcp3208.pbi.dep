@@ -1,0 +1,9 @@
+mcp3208.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user\mcp3208.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user/mcp3208.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user/stm8s_spi.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user/stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user/uart.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Test_Json\user/delay.h

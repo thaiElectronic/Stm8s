@@ -1,0 +1,51 @@
+sensor_gpio.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user\sensor_gpio.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/sensor_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\stm8s_conf.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_adc1.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_awu.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_beep.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_clk.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_exti.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_flash.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library/stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_i2c.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_itc.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_iwdg.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_rst.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user\stm8s_spi.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_tim1.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_tim2.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_tim3.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_tim4.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_uart2.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\library\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/sys.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/sys_define.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/mcp3208.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/stm8s_spi.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/uart.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/timer.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/delay.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\math.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ymath.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xtgmath.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/json-maker.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/tiny-json.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdbool.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\5.Monit_Perfect\5.Monit_Perfect\user/KALMAN.h

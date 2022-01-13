@@ -1,0 +1,5 @@
+delay.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Monit_json\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user\delay.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Monit_json\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/delay.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Monit_json\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

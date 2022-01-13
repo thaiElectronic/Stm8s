@@ -1,0 +1,17 @@
+"-p" 
+
+"H:\Iar\stm8\config\ddf\iostm8s103f3.ddf" 
+
+"--mcuname" 
+
+"STM8S103F3P" 
+
+"--verify_download" 
+
+"--option_bytes_file" 
+
+"" 
+
+
+
+

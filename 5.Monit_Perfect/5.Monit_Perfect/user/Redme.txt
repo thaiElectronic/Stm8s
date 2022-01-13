@@ -1,0 +1,29 @@
+/*
+GPIOSENSOR_ReadInput(GPIO_ReadInputPin(GPIOA,GPIO_PIN_1), (SS_TypeInput*)(&vrts_ButtonA));
+    GPIOSENSOR_ReadInput(GPIO_ReadInputPin(GPIOA,GPIO_PIN_4), (SS_TypeInput*)(&vrts_ButtonB));
+    if(vrts_ButtonA.vruc_FlagChange)
+    {
+      vrts_ButtonA.vruc_FlagChange;
+      UART_Send_String("BT1");
+    }
+    
+    if(vrts_ButtonB.vruc_FlagChange)
+    {
+      vrts_ButtonB.vruc_FlagChange;
+      UART_Send_String("BT2");
+    }
+   Fn_Delayms(1);
+*/
+
+/*
+ADC-chuan
+#include "sys.h"
+int main( void ){ 
+  Sys_Init();
+  while (1){
+   Sys_process();
+   Sensor_disp();
+   Fn_Delayms(1000);
+  }     
+}
+*/

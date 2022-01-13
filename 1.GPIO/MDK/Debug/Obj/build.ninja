@@ -1,0 +1,29 @@
+#Generating source browse information for project GPIO
+
+
+#Abbreviations
+cc = H$:\Iar\common\bin\SourceIndexer.exe
+ll = H$:\Iar\common\bin\PbdLink.exe
+bd = H$:\Iar\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build GPIO.pbi : index GPIO.xcl
+build main.pbi : index main.xcl
+build stm8s_it.pbi : index stm8s_it.xcl
+build GPIO.pbd : link GPIO.pbi main.pbi stm8s_it.pbi
+build GPIO.pbw : browsedata GPIO.pbd
+
+

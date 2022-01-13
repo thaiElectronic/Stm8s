@@ -1,0 +1,12 @@
+SSD1306.pbi: \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user\SSD1306.c \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/fonts.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/SSD1306.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\project\..\library\STM8S.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/stm8s_i2c.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\project\..\library\stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/delay.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\project\..\library\stm8s_gpio.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\project\..\library/stm8s.h \
+  C:\Users\Thai\ MCU\Documents\3.STM8s\Battery_Monitoring_STM8_V1\Battery_Monitoring_STM8_V1\user/stm8s_clk.h

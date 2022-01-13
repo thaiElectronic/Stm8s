@@ -1,0 +1,43 @@
+#Generating source browse information for project project_battery
+
+
+#Abbreviations
+cc = H$:\Iar\common\bin\SourceIndexer.exe
+ll = H$:\Iar\common\bin\PbdLink.exe
+bd = H$:\Iar\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build delay.pbi : index delay.xcl
+build KALMAN.pbi : index KALMAN.xcl
+build timer.pbi : index timer.xcl
+build uart.pbi : index uart.xcl
+build uart_frame.pbi : index uart_frame.xcl
+build mcp3208.pbi : index mcp3208.xcl
+build sensor_gpio.pbi : index sensor_gpio.xcl
+build sys.pbi : index sys.xcl
+build stm8s_gpio.pbi : index stm8s_gpio.xcl
+build stm8s_it.pbi : index stm8s_it.xcl
+build stm8s_spi.pbi : index stm8s_spi.xcl
+build stm8s_tim4.pbi : index stm8s_tim4.xcl
+build main.pbi : index main.xcl
+build project_battery_part0.pbi : link delay.pbi KALMAN.pbi timer.pbi uart.pbi
+build project_battery_part1.pbi : link uart_frame.pbi mcp3208.pbi sensor_gpio.pbi sys.pbi
+build project_battery_part2.pbi : link stm8s_gpio.pbi stm8s_it.pbi stm8s_spi.pbi stm8s_tim4.pbi
+build project_battery_part3.pbi : link main.pbi
+build project_battery.pbd : link project_battery_part0.pbi project_battery_part1.pbi project_battery_part2.pbi project_battery_part3.pbi
+build project_battery.pbw : browsedata project_battery.pbd
+
+

@@ -1,0 +1,21 @@
+/*
+test MC38
+*/
+
+#include "sys.h"
+
+int main( void ){
+  InitialiseSystemClock();
+
+  GPIO_Init(GPIOB, GPIO_PIN_5, GPIO_MODE_OUT_PP_LOW_FAST);
+  GPIO_Init(GPIOA, GPIO_PIN_1, GPIO_MODE_IN_PU_NO_IT);
+
+  while (1){
+    if(GPIO_ReadInputPin(GPIOA,GPIO_PIN_1)==0){
+      GPIOB->ODR = 1<<5;
+    }
+    else{
+      GPIOB->ODR = 0<<5;
+    }
+  }
+}

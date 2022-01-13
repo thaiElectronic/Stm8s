@@ -1,0 +1,15 @@
+# ninja log v5
+98	317	6384229919578811	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/DELAY.o	892add70228c6299
+192	468	6384229921018487	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/tiny-json.o	ddb407a7f3165617
+244	351	6384262355958435	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/DELAY.o	a673c2860adc7b15
+254	538	6384262357798071	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/tiny-json.o	362d144e3ef2ab0f
+2	254	6384267857478232	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/DELAY.o	892add70228c6299
+9	330	6384267858198038	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/gpio.o	efede6b2649e20be
+260	439	6384267859317737	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/sys.o	6145af7f71b6c403
+335	490	6384267859637625	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/user/main.o	6496bd065bf0a6c6
+614	801	6384267862836829	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/user/stm8s_gpio.o	396656526a25801
+498	856	6384267863356708	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/tiny-json.o	ddb407a7f3165617
+0	132	6384268311575975	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/sys.o	6145af7f71b6c403
+8	142	6384268311535979	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/lib/gpio.o	efede6b2649e20be
+138	277	6384268313015602	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/user/stm8s_gpio.o	396656526a25801
+149	308	6384268313215556	C:/Users/Thai MCU/Documents/3.STM8s/GPIO_Basic/project/Debug/Obj/user/main.o	6496bd065bf0a6c6

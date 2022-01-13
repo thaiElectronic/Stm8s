@@ -1,0 +1,4 @@
+stm8s_gpio.pbi: C:\Users\nguye\Desktop\13.ssd1306_STM8\user\stm8s_gpio.c \
+  C:\Users\nguye\Desktop\13.ssd1306_STM8\user/stm8s_gpio.h \
+  C:\Users\nguye\Desktop\13.ssd1306_STM8\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

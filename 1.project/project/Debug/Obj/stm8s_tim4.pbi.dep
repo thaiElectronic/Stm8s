@@ -1,0 +1,4 @@
+stm8s_tim4.pbi: F:\Documents\3.STM8s\1.project\library\stm8s_tim4.c \
+  F:\Documents\3.STM8s\1.project\library/stm8s_tim4.h \
+  F:\Documents\3.STM8s\1.project\library/stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h

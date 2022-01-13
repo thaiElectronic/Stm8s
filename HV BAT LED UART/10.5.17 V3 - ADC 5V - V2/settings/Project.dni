@@ -1,0 +1,69 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1436400507
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CallStackLog]
+Enabled=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Aliases]
+A0=_ "F:\TPE\Projects\TPE.K.13 Hien thi Led 7x3 0.28\CODE\10.5.17 V3\USER\SYSTEM.c" ""
+A1=_ "F:\TPE\Projects\TPE.K.13 Hien thi Led 7x3 0.28\CODE\10.5.17 V3\main.c" ""
+A2=_ "F:\TPE\Projects\TPE.K.13 Hien thi Led 7x3 0.28\CODE\10.5.17 V3\stm8s_it.c" ""
+A3=_ "G:\TPE\Projects\TPE.K.02 DC motor VR Slave\Code\25.4.16 V2\STM8S_StdPeriph_Lib\src\stm8s_gpio.c" ""
+Count=4
+SuppressDialog=0
+[Simulator]
+Freq=16000000

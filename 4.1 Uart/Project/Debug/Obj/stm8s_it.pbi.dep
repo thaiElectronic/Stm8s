@@ -1,0 +1,4 @@
+stm8s_it.pbi: F:\Documents\3.STM8s\4.1\ Uart\Project\stm8s_it.c \
+  F:\Documents\3.STM8s\4.1\ Uart\Project/stm8s_it.h \
+  F:\Documents\3.STM8s\4.1\ Uart\Project/stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h

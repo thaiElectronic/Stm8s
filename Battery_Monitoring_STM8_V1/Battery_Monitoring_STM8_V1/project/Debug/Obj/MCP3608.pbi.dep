@@ -1,0 +1,9 @@
+MCP3608.pbi: \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user\MCP3608.c \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user/MCP3608.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\project\..\library\stm8s.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user/stm8s_spi.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\project\..\library\stm8s_gpio.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\project\..\library/stm8s.h \
+  D:\2021\Thang3\Anh_Hung_Pin\Battery_Monitoring_STM8_V1\user/uart.h

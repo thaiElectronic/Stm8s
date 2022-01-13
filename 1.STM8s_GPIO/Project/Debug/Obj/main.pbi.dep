@@ -1,0 +1,3 @@
+main.pbi: F:\Documents\3.STM8s\1.STM8s_GPIO\Project\main.c \
+  F:\Documents\3.STM8s\1.STM8s_GPIO\Project/stm8s.h \
+  H:\Iar\stm8\inc\c\intrinsics.h
